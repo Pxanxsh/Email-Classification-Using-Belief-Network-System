@@ -2,6 +2,7 @@
 Naïve Bayes Algorithm is implemented in order to classify spam and not spam emails.
 
 Dataset.zip : Dataset contains training and test set. Each set consists of spam and ham directories. All the files in spam set are spam emails and files in ham set are non-spam emails.
+
 The implemented algorithm uses add-one smoothing. The algorithm is also improved using two follwing approaches:
 
 1) Filtering the Stop Words - The list of stop words is in stopwords.txt.
